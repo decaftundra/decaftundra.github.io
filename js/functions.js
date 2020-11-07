@@ -9,7 +9,7 @@ Amplitude.init({
         "name": "Why I Leave (30 sec extract)",
         "artist": "Floral Image",
         "url": "https://docs.google.com/uc?export=download&id=1LABjNh_ToUNpxz4ko0hERw9Jgsfuy7el",
-        "cover_art_url": "https://docs.google.com/uc?export=download&id=1RhlJ0Q2_nBWBWoQnld84v50M0MUoneaP"
+        "cover_art_url": "https://docs.google.com/uc?export=download&id=1J6nIsq3ckrGYYpZFEl5kldKzTsprwXEW"
       }
     ]
   });
