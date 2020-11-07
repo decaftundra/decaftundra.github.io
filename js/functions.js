@@ -6,7 +6,7 @@ Amplitude.init({
     },
     "songs": [
       {
-        "name": "Why I Leave (30sec Extract)",
+        "name": "Why I Leave (30 sec Extract)",
         "artist": "Floral Image",
         "url": "https://docs.google.com/uc?export=download&id=1LABjNh_ToUNpxz4ko0hERw9Jgsfuy7el",
         "cover_art_url": "https://photos.app.goo.gl/8J5M3z7ETBuEUwoD9"
